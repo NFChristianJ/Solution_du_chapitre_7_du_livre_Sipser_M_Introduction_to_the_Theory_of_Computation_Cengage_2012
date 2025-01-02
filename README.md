@@ -1,0 +1,2 @@
+# Solution_du_chapitre_7_du_livre_Sipser_M_Introduction_to_the_Theory_of_Computation_Cengage_2012
+Ce dépot contient les corrections de tout les exercices du chapitre 7 du livre Sipser_M_Introduction_to_the_Theory_of_Computation_Cengage_2012
